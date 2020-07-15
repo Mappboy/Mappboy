@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🔭 I’m currently working on finishing off all my side projects.
+
+The gaps in my commit history can be filled in here [🦊](https://gitlab.com/cameron.j.poole)
+
 <!--
 **Mappboy/Mappboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
