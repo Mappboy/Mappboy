@@ -4,6 +4,14 @@
 
 The gaps in my commit history can be filled in here [🦊](https://gitlab.com/cameron.j.poole)
 
+<table><tr><td valign="top" width="100%">
+
+### TIL
+<!-- tils starts -->
+<!-- tils ends -->
+More on [pypoole.com/til](https://pypoole.com/til/)
+</td></tr></table>
+
 <!--
 **Mappboy/Mappboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
