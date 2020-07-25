@@ -8,12 +8,6 @@ The gaps in my commit history can be filled in here [🦊](https://gitlab.com/ca
 
 ### TIL
 <!-- tils starts -->
-* [Querying wikipedia my first queries](https://www.pypoole.com/til/my-first-sparql-wikipedia) - 2020-07-24
-* [A short list of tools I use](https://www.pypoole.com/til/useful-programming-tools) - 2020-07-22
-* [OSM data downloads](https://www.pypoole.com/til/osm-data-downloads) - 2020-07-15
-* [Better ReadMe's](https://www.pypoole.com/til/better-readmes) - 2020-07-15
-* [Shortcuts to Emojis 🤯](https://www.pypoole.com/til/symbol-shorcut) - 2020-07-15
-* [Setting node environment variables](https://www.pypoole.com/til/node-env-vars) - 2020-07-15
 <!-- tils ends -->
 More on [pypoole.com/til](https://pypoole.com/til/)
 </td></tr></table>
