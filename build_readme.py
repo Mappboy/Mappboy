@@ -1,7 +1,7 @@
 # Originally from simonw
+import datetime
 import pathlib
 import re
-import datetime
 from datetime import datetime
 
 import feedparser
@@ -9,7 +9,9 @@ import feedparser
 root = pathlib.Path(__file__).parent.resolve()
 PYPOOLE_TILS = "https://pypoole.com/rss.xml"
 
-time_fmt = "%a, %d %b %Y %H:%M:%S GM"
+time_fmt = "%a, %d %b %Y %H:%M:%S GMT"
+
+
 # client = GraphqlClient(endpoint="https://api.github.com/graphql")
 
 
@@ -24,13 +26,21 @@ def replace_chunk(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
+def parse_date(date_str: str):
+    try:
+        return datetime.strptime(date_str, time_fmt).strftime("%Y-%m-%d")
+    except Exception as e:
+        print(f"Failed to convert {e}")
+        return date_str
+
+
 def fetch_til_entries():
     entries = feedparser.parse(PYPOOLE_TILS)["entries"]
     return [
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": datetime.strptime(entry["published"], time_fmt).strftime("%Y-%m-%d"),
+            "published": parse_date(entry["published"]),
         }
         for entry in entries
     ]
