@@ -8,8 +8,9 @@ The gaps in my commit history can be filled in here [🦊](https://gitlab.com/ca
 
 ### TIL
 <!-- tils starts -->
-* [Querying wikipedia my first queries](https://www.pypoole.com/til/sparql/my-first-sparql-wikipedia) - 2020-07-24
-* [A short list of tools I use](https://www.pypoole.com/til/macosx/useful-programming-tools) - 2020-07-22
+* [Querying CKAN resources with ckanapi](https://www.pypoole.com/til/tools/ckanapi) - 2020-07-29
+* [Querying wikipedia my first queries](https://www.pypoole.com/til/tools/my-first-sparql-wikipedia) - 2020-07-24
+* [A short list of tools I use](https://www.pypoole.com/til/tools/useful-programming-tools) - 2020-07-22
 * [OSM data downloads](https://www.pypoole.com/til/gis/osm-data-downloads) - 2020-07-15
 * [Better ReadMe's](https://www.pypoole.com/til/github/better-readmes) - 2020-07-15
 * [Shortcuts to Emojis 🤯](https://www.pypoole.com/til/macosx/symbol-shorcut) - 2020-07-15
