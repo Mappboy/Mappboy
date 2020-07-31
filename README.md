@@ -8,6 +8,7 @@ The gaps in my commit history can be filled in here [🦊](https://gitlab.com/ca
 
 ### TIL
 <!-- tils starts -->
+* [Keep a changelog, you heathen 😉](https://www.pypoole.com/til/github/keep-a-changelog) - 2020-07-31
 * [Querying CKAN resources with ckanapi](https://www.pypoole.com/til/tools/ckanapi) - 2020-07-29
 * [Querying wikipedia my first queries](https://www.pypoole.com/til/tools/my-first-sparql-wikipedia) - 2020-07-24
 * [A short list of tools I use](https://www.pypoole.com/til/tools/useful-programming-tools) - 2020-07-22
