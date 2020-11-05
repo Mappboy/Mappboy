@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working on finishing off all my side projects.
+Like Isaac Newton during the Great Plague I am stuck in 🔒-down, just not smart enough to develop calculus whilst doing it.
+
+🔭 Working on building service integrations with AWS Lambdas and event driven data processing.
 
 The gaps in my commit history can be filled in here [🦊](https://gitlab.com/cameron.j.poole)
 
