@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-Like Isaac Newton during the Great Plague I am stuck in 🔒-down, just not smart enough to develop calculus whilst doing it.
+Waiting to start an exciting new position 🎉.
 
-🔭 Working on building service integrations with AWS Lambdas and event driven data processing.
+🔭 Working on building service integrations with AWS Lambdas and event driven data processing for ALU.
 
 The gaps in my commit history can be filled in here [🦊](https://gitlab.com/cameron.j.poole)
+
+Happy Holidays everyone 🎄
 
 <table><tr><td valign="top" width="100%">
 
