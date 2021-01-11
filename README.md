@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Waiting to start an exciting new position 🎉.
+Just getting settled into a new position (very busy - will be slow to respond) 🎉.
 
 🔭 Working on building service integrations with AWS Lambdas and event driven data processing for ALU.
 
