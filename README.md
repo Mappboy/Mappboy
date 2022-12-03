@@ -1,29 +1,18 @@
 ### Hi there 👋
 
-Just getting settled into a new position (very busy - will be slow to respond) 🎉.
+I am Cam 🎉 !!!
 
-🔭 Working on building service integrations with AWS Lambdas and event driven data processing for ALU.
+Just a Remote Geospatial 🗺️ Developer living down in Hobart Tasmania 🌱.
 
-The gaps in my commit history can be filled in here [🦊](https://gitlab.com/cameron.j.poole)
+🔭 I build spatial solutions using Free Open Source Software (FOSS). 
 
-Happy Holidays everyone 🎄
+Most of my work can be found on Gitlab [🦊](https://gitlab.com/cameron.j.poole)
 
-<table><tr><td valign="top" width="100%">
+I work for [Mammoth Geospatial](https://mammothgeospatial.com/)
 
-### TIL
-<!-- tils starts -->
-* [Rotation Matrices](https://www.pypoole.com/til/aoc/aoc-rotation-matrix) - 2020-12-12
-* [Keep a changelog, you heathen 😉](https://www.pypoole.com/til/github/keep-a-changelog) - 2020-07-31
-* [Querying CKAN resources with ckanapi](https://www.pypoole.com/til/tools/ckanapi) - 2020-07-29
-* [Querying wikipedia my first queries](https://www.pypoole.com/til/tools/my-first-sparql-wikipedia) - 2020-07-24
-* [A short list of tools I use](https://www.pypoole.com/til/tools/useful-programming-tools) - 2020-07-22
-* [OSM data downloads](https://www.pypoole.com/til/gis/osm-data-downloads) - 2020-07-15
-* [Shortcuts to Emojis 🤯](https://www.pypoole.com/til/macosx/symbol-shorcut) - 2020-07-15
-* [Better ReadMe's](https://www.pypoole.com/til/github/better-readmes) - 2020-07-15
-* [Setting node environment variables](https://www.pypoole.com/til/netlify/node-env-vars) - 2020-07-15
-<!-- tils ends -->
-More on [pypoole.com/til](https://pypoole.com/til/)
-</td></tr></table>
+📫 You can reach me at [cameron at mammothgeospatial.com](cameron@mammothgeospatial.com)
+
+☮️
 
 <!--
 **Mappboy/Mappboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
