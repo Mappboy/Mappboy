@@ -8,10 +8,9 @@ Just a Remote Geospatial 🗺️ Developer living down in Hobart Tasmania 🌱.
 
 Most of my work can be found on Gitlab [🦊](https://gitlab.com/cameron.j.poole)
 
-I work for [Mammoth Geospatial](https://mammothgeospatial.com/) 🦣 - Specialists in
-free and open source GIS. 
+I work for [Geoneon](https://geoneon.com/) 🌐
 
-📫 You can reach me at [cameron at mammothgeospatial.com](cameron@mammothgeospatial.com)
+📫 You can reach me at [cameron at geoneon.com](cameron@geoneon.com)
 
 ☮️
 
