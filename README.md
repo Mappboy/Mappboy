@@ -8,9 +8,8 @@ Just a Remote Geospatial 🗺️ Developer living down in Hobart Tasmania 🌱.
 
 Most of my work can be found on Gitlab [🦊](https://gitlab.com/cameron.j.poole)
 
-I work for [Geoneon](https://geoneon.com/) 🌐
 
-📫 You can reach me at [cameron at geoneon.com](cameron@geoneon.com)
+📫 You can reach me at [cameron j poole at gmail.com](cameron.j.poole@gmail.com)
 
 ☮️
 
