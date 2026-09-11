@@ -8,7 +8,7 @@ I build spatial data pipelines, native systems software, and static web architec
 - 📐 **Systems & Software:** Python, .NET 8 / C# Autodesk Revit add-ins, and desktop utilities.
 - 🗺️ **Spatial & Data:** Raster/vector ETL, wildfire & hazard exposure modeling, and GDAL/Python pipelines.
 - ⚡ **Modern Web:** Static architectures, Astro, React, MapLibre GL, and zero-JS default payloads.
-- 
+
 Most of my work can be found here and on Gitlab [🦊](https://gitlab.com/cameron.j.poole)
 
 📫 You can reach me at [cameron j poole at gmail.com](cameron.j.poole@gmail.com)
